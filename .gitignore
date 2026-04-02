@@ -1,0 +1,30 @@
+# 编译生成的文件
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 调试文件
+*.pdb
+*.ilk
+
+# 暂不上传的文件夹
+src/
